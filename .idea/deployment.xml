@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@219.216.101.105:17786 password (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@219.216.101.105:17786 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data/ygw/backbone" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@219.216.101.105:17786 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data/ygw/backbone" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@219.216.101.105:17786 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data/ygw/backbone" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
